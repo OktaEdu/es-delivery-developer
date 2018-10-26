@@ -7,3 +7,6 @@
 [submodule "scim"]
 	path = scim
 	url = https://github.com/OktaEdu/es-delivery-scim
+[submodule "advanced_mastering"]
+	path = advanced_mastering
+	url = git@github.com:OktaEdu/es-delivery-advanced-mastering

@@ -10,3 +10,6 @@
 [submodule "advanced_mastering"]
 	path = advanced_mastering
 	url = https://github.com/OktaEdu/es-delivery-advanced-mastering
+[submodule "inbound_federation"]
+	path = inbound_federation
+	url = git@github.com:OktaEdu/es-delivery-inbound-federation

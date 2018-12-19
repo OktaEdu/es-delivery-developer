@@ -12,4 +12,4 @@
 	url = https://github.com/OktaEdu/es-delivery-advanced-mastering
 [submodule "inbound_federation"]
 	path = inbound_federation
-	url = git@github.com:OktaEdu/es-delivery-inbound-federation
+	url = https://github.com/OktaEdu/es-delivery-inbound-federation

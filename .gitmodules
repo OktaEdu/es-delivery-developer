@@ -13,3 +13,6 @@
 [submodule "inbound_federation"]
 	path = inbound_federation
 	url = https://github.com/OktaEdu/es-delivery-inbound-federation
+[submodule "oktane"]
+	path = oktane
+	url = https://github.com/OktaEdu/es-delivery-oktane

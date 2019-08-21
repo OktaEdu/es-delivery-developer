@@ -16,3 +16,6 @@
 [submodule "oktane"]
 	path = oktane
 	url = https://github.com/OktaEdu/es-delivery-oktane
+[submodule "user_migration"]
+	path = user_migration
+	url = https://github.com/OktaEdu/es-delivery-user-migration.git

@@ -19,3 +19,6 @@
 [submodule "user_migration"]
 	path = user_migration
 	url = https://github.com/OktaEdu/es-delivery-user-migration.git
+[submodule "oidc"]
+	path = oidc
+	url = https://github.com/OktaEdu/es-delivery-oidc.git
